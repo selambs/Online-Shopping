@@ -1,7 +1,6 @@
 //import all the (biult-in and 3rd party) modules 
 const express = require("express");
 const path = require("path");
-const mongoDB = require("mongodb");
 const bodyParser = require("body-parser");
 
 //emport the routers
